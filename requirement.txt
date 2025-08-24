@@ -1,1 +1,22 @@
+# Core Python Data Science Stack
+pandas
+numpy
+scikit-learn
 
+# Visualization
+matplotlib
+seaborn
+
+# Model Persistence
+joblib
+
+# Dashboard
+streamlit
+
+# Jupyter environment (for notebooks)
+jupyter
+notebook
+jupyterlab
+
+# Optional but useful
+ipykernel        # allows you to add your venv as a Jupyter kernel
